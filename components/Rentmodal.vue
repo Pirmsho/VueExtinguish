@@ -2,7 +2,7 @@
   <div>
     <b-button id="show-btn" @click="showModal">Rent</b-button>
 
-    <b-modal ref="my-modal" hide-footer title="Using Component Methods">
+    <b-modal ref="my-modal" hide-footer title="Rent a Fire Extinguisher">
       <div class="calendar-container mb-2">
         <div class="text-container">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem

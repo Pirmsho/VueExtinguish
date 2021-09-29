@@ -42,4 +42,7 @@ export default {};
 .nav-left {
   margin-left: auto;
 }
+.nav-link {
+  margin-left: 10px;
+}
 </style>
